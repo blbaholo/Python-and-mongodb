@@ -1,6 +1,6 @@
 Python and MongoDB (256)
 For raw project instructions see: http://syllabus.africacode.net/projects/python-specific/mongo/
-#### **Project Description**
+#### **PROJECT DESCRIPTION**
 
 PerforMING CRUD operationo on mongodb database
 #### **EXECUTING CODE**
