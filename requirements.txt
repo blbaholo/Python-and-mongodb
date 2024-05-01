@@ -1,0 +1,4 @@
+mongoengine == 0.22.1
+mongomock == 4.1.2
+python-dotenv == 0.21.0
+pytest == 7.1.2

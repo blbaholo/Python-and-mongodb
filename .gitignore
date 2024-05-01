@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!README.md
+!requirements.txt
+!docker-compose.yaml
+!src/
+!src/main.py
+!src/index.py
+!tests/
+!tests/test_index.py
+!setup.py
