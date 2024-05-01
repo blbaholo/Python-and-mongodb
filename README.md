@@ -1,5 +1,8 @@
 Python and MongoDB (256)
 For raw project instructions see: http://syllabus.africacode.net/projects/python-specific/mongo/
+#### **Project Description**
+
+PerforMING CRUD operationo on mongodb database
 #### **EXECUTING CODE**
 1. Start up database with docker.
 2. Execute code in index script using function calls.
